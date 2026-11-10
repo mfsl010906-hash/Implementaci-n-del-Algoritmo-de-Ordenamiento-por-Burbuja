@@ -10,11 +10,9 @@
 - **IDE Sugerido:** NetBeans, Eclipse, IntelliJ IDEA o VS Code.
 
 ## Descripción del Proyecto
-Este proyecto implementa y compara dos métodos de interpolación polinomial:
+Este algoritmo revisa cada elemento de una lista o arreglo con el adyacente, intercambiándolos de posición si están en el orden equivocado.
 1. Método de Polinomios de Lagrange: destaca por su formulacion directa y sencillez de programacion
 2. Método de Diferencias Divididas de Newton:mayor flexibilidad al trabajar con conjuntos dinamicos
-3. Interpolacion Newton: La función principal de esta clase es construir un polinomio único que pase exactamente a través de un conjunto de puntos de datos conocidos, permitiendo así estimar o calcular valores intermedios que no se encuentran en la tabla original.
-4. Interpolacion Lagrange: Esta clase se encarga de calcular un valor aproximado utilizando el método de interpolación de Lagrange.
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
