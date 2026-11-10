@@ -1,6 +1,36 @@
 # Implementaci-n-del-Algoritmo-de-Ordenamiento-por-Burbuja
--tarea 1 unidad 5 estructura de datos
--Instituto Tecnologico Superior de xalapa 
--Estructura de Datos
--Maria Fatima Sanchez Landa
-# 
+- tarea 1 unidad 5 estructura de datos
+- instituto tecnologico superior de xalapa
+- ingeneria en sistemas computacionales
+- docente: Victor Hugo Vasquez Harrera
+- alumna: Maria Fatima Sanchez Landa
+
+## Requerimientos del Entorno
+- **Lenguaje:** Java SE 8 o superior (JDK 17 recomendado).
+- **IDE Sugerido:** NetBeans, Eclipse, IntelliJ IDEA o VS Code.
+
+## Descripción del Proyecto
+Este proyecto implementa y compara dos métodos de interpolación polinomial:
+1. Método de Polinomios de Lagrange: destaca por su formulacion directa y sencillez de programacion
+2. Método de Diferencias Divididas de Newton:mayor flexibilidad al trabajar con conjuntos dinamicos
+3. Interpolacion Newton: La función principal de esta clase es construir un polinomio único que pase exactamente a través de un conjunto de puntos de datos conocidos, permitiendo así estimar o calcular valores intermedios que no se encuentran en la tabla original.
+4. Interpolacion Lagrange: Esta clase se encarga de calcular un valor aproximado utilizando el método de interpolación de Lagrange.
+
+## Instrucciones de Ejecución
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/mfsl010906-hash/Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton.git]
+   cd Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton
+   ```
+
+2. Compilar el código:
+   ```bash
+   javac -d bin src/Interpolacion/*.java
+   ```
+
+3. Ejecutar la clase principal:
+   ```bash
+   java -cp bin Interpolacion.Main
+   ```
+
+---
