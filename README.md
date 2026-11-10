@@ -11,8 +11,8 @@
 
 ## Descripción del Proyecto
 Este algoritmo revisa cada elemento de una lista o arreglo con el adyacente, intercambiándolos de posición si están en el orden equivocado.
-1. Método de Polinomios de Lagrange: destaca por su formulacion directa y sencillez de programacion
-2. Método de Diferencias Divididas de Newton:mayor flexibilidad al trabajar con conjuntos dinamicos
+1. Clase Burbuja: Esta clase contiene los métodos estáticos encargados de procesar la lógica de ordenamiento y el formato de visualización del arreglo.
+2. 
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
