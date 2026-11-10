@@ -14,6 +14,26 @@ Este algoritmo revisa cada elemento de una lista o arreglo con el adyacente, int
 1. Clase Burbuja: Esta clase contiene los métodos estáticos encargados de procesar la lógica de ordenamiento y el formato de visualización del arreglo.
 2. Main Burbuja: Esta clase contiene el método principal (main) que actúa como punto de entrada del programa para instanciar datos y probar los métodos de ordenamiento e impresión.
 
+
+## Instrucciones de Ejecución
+1. Clonar el repositorio:
+   ```bash
+   git clone [https://github.com/mfsl010906-hash/Implementaci-n-del-Algoritmo-de-Ordenamiento-por-Burbuja.git]
+   cd Implementaci-n-del-Algoritmo-de-Ordenamiento-por-Burbuja
+   ```
+
+2. Compilar el código:
+   ```bash
+   javac -d bin src/Burbuja/*.java
+   ```
+
+3. Ejecutar la clase principal:
+   ```bash
+   java -cp bin Mainburbuja.Main
+   ```
+
+---
+
 ## Salida de Consola
 Arreglo original:
 [6, 1, 5, 8, 3, 2, 7, 4]
@@ -24,22 +44,3 @@ Arreglo ordenado:
 Process finished with exit code 0
 
 Los resultados obtenidos demuestran la eficacia del método burbuja para el ordenamiento de datos.
-
-## Instrucciones de Ejecución
-1. Clonar el repositorio:
-   ```bash
-   git clone []
-   cd Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton
-   ```
-
-2. Compilar el código:
-   ```bash
-   javac -d bin src/Interpolacion/*.java
-   ```
-
-3. Ejecutar la clase principal:
-   ```bash
-   java -cp bin Interpolacion.Main
-   ```
-
----
