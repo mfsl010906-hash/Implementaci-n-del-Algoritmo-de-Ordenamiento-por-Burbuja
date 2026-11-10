@@ -15,11 +15,20 @@ Este algoritmo revisa cada elemento de una lista o arreglo con el adyacente, int
 2. Main Burbuja: Esta clase contiene el método principal (main) que actúa como punto de entrada del programa para instanciar datos y probar los métodos de ordenamiento e impresión.
 
 ## Salida de Consola
+Arreglo original:
+[6, 1, 5, 8, 3, 2, 7, 4]
+
+Arreglo ordenado:
+[1, 2, 3, 4, 5, 6, 7, 8]
+
+Process finished with exit code 0
+
+Los resultados obtenidos demuestran la eficacia del método burbuja para el ordenamiento de datos.
 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/mfsl010906-hash/Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton.git]
+   git clone []
    cd Interpolaci-n-de-Lagrange-vs.-Diferencias-Divididas-de-Newton
    ```
 
